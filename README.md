@@ -1,2 +1,2 @@
-# ciftdusun
-The official website.
+# Çift Düşün | ciftdusun.com
+Pek yakında...
